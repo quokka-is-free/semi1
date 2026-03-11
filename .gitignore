@@ -1,0 +1,5 @@
+osint_data.db
+__pycache__/
+*.log
+.venv/
+.vscode/
